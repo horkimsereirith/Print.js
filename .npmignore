@@ -9,3 +9,5 @@ yarn.lock
 coverage/
 .vscode
 package-lock.json
+node_modules
+*.tgz
